@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry, Washington University in St. Louis, 2017
+  concentration in biochemistry, archaeology
+* Ph.D in Chemical Oceanography, MIT WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering, (expected 2022)
 
 Work experience
 ======
