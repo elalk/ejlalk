@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Chemistry, Washington University in St. Louis, 2017
   concentration in biochemistry, archaeology
-* Ph.D in Chemical Oceanography, MIT WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering, (expected 2022)
+* (in progress) Ph.D in Chemical Oceanography, MIT WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering
 
 Work experience
 ======
